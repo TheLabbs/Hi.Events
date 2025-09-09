@@ -16,6 +16,7 @@ const config: LinguiConfig = {
         "tr", // Turkish
 
         "it", // Italian
+        "sv", // Swedish
         // "pl", // Polish
         // "ja", // Japanese
         // "ko", // Korean
