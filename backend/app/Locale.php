@@ -18,9 +18,10 @@ enum Locale: string
     case PT = 'pt';
     case PT_BR = 'pt-br';
     case ZH_CN = 'zh-cn';
-
     case ZH_HK = 'zh-hk';
     case VI = 'vi';
+    case SV = 'sv';  // Svenska tillagt
+    case RU = 'ru';  // Ryska tillagt (fanns i frontend)
 
     case TR = 'tr';
 
