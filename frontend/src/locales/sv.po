@@ -509,7 +509,7 @@ msgstr ""
 
 #: src/components/common/MessageList/index.tsx:21
 msgid "All attendees"
-msgstr ""
+msgstr "Alla deltagare"
 
 #: src/components/modals/SendMessageModal/index.tsx:188
 msgid "All attendees of this event"
@@ -1162,7 +1162,7 @@ msgstr "Klicka för att kopiera"
 
 #: src/components/routes/product-widget/SelectProducts/index.tsx:580
 msgid "close"
-msgstr ""
+msgstr "stäng"
 
 #: src/components/common/AttendeeCheckInTable/QrScanner.tsx:186
 #: src/components/modals/RefundOrderModal/index.tsx:125
@@ -1383,7 +1383,7 @@ msgstr "Kontakt"
 
 #: src/components/common/ContactOrganizerModal/index.tsx:66
 msgid "Contact {0}"
-msgstr ""
+msgstr "Contact {0}"
 
 #: src/components/forms/OrganizerForm/index.tsx:34
 msgid "Contact Email"
@@ -1469,7 +1469,7 @@ msgstr ""
 
 #: src/components/modals/ShareModal/index.tsx:248
 msgid "Copied!"
-msgstr ""
+msgstr "Copied!"
 
 #: src/components/common/CopyButton/index.tsx:13
 #: src/components/modals/ShareModal/index.tsx:255
@@ -2362,7 +2362,7 @@ msgstr "Eventplats och platsdetaljer"
 
 #: src/components/routes/welcome/index.tsx:349
 msgid "Event name"
-msgstr ""
+msgstr "Händelsenamn"
 
 #: src/components/modals/CreateEventModal/index.tsx:176
 msgid "Event Name"
@@ -2703,7 +2703,7 @@ msgstr "Generera"
 #: src/components/forms/PromoCodeForm/index.tsx:52
 #: src/components/forms/PromoCodeForm/index.tsx:59
 msgid "Generate code"
-msgstr ""
+msgstr "Generera kod"
 
 #: src/components/common/LanguageSwitcher/index.tsx:14
 msgid "German"
@@ -2723,7 +2723,7 @@ msgstr "Kom igång"
 
 #: src/components/routes/organizer/Settings/Sections/SocialLinks/index.tsx:102
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #: src/components/routes/profile/ConfirmEmailChange/index.tsx:23
 #: src/components/routes/profile/ConfirmEmailChange/index.tsx:42
@@ -3043,7 +3043,7 @@ msgstr "instagram"
 
 #: src/components/common/ContactOrganizerModal/index.tsx:35
 msgid "Invalid email"
-msgstr ""
+msgstr "Ogiltig e-post"
 
 #: src/components/modals/CreateAffiliateModal/index.tsx:38
 #: src/components/modals/EditAffiliateModal/index.tsx:36
@@ -3211,7 +3211,7 @@ msgstr ""
 
 #: src/components/routes/organizer/Settings/Sections/SocialLinks/index.tsx:61
 msgid "LinkedIn"
-msgstr ""
+msgstr "LinkedIn"
 
 #: src/components/layouts/Event/index.tsx:178
 #: src/components/layouts/OrganizerLayout/index.tsx:200
@@ -3220,7 +3220,7 @@ msgstr "Live"
 
 #: src/components/layouts/OrganizerHomepage/EventCard/index.tsx:111
 msgid "LIVE"
-msgstr ""
+msgstr "LIVE"
 
 #: src/components/routes/organizer/OrganizerHomepageDesigner/index.tsx:261
 msgid "Loading themes..."
@@ -3892,7 +3892,7 @@ msgstr "Beställningen har avbrutits och beställningsägaren har meddelats."
 
 #: src/components/routes/organizer/OrganizerDashboard/index.tsx:277
 msgid "Order ID: {0}"
-msgstr ""
+msgstr "Order ID: {0}"
 
 #: src/components/common/OrdersTable/index.tsx:79
 msgid "Order marked as paid"
@@ -4514,7 +4514,7 @@ msgstr "Kampanjkod {promo_code} tillämpad"
 
 #: src/components/common/OrderDetails/index.tsx:86
 msgid "Promo code"
-msgstr ""
+msgstr "Kampanjkod"
 
 #: src/components/routes/event/Reports/PromoCodesReport/index.tsx:20
 msgid "Promo Code"
@@ -4705,7 +4705,7 @@ msgstr ""
 
 #: src/components/layouts/Event/index.tsx:236
 msgid "Resend email"
-msgstr ""
+msgstr "Skicka e-post igen"
 
 #: src/components/routes/profile/ManageProfile/index.tsx:144
 msgid "Resend email confirmation"
@@ -5267,7 +5267,7 @@ msgstr ""
 
 #: src/components/common/EventCard/index.tsx:185
 msgid "sold"
-msgstr ""
+msgstr "sold"
 
 #: src/components/common/ProductPriceAvailability/index.tsx:9
 #: src/components/common/ProductPriceAvailability/index.tsx:32
@@ -5524,7 +5524,7 @@ msgstr "Svit 100"
 #: src/components/modals/DuplicateEventModal/index.tsx:108
 #: src/components/routes/event/Settings/Sections/EventDetailsForm/index.tsx:76
 msgid "Summer Music Festival {0}"
-msgstr ""
+msgstr "Summer Music Festival {0}"
 
 #: src/components/routes/welcome/index.tsx:350
 msgid "Summer Music Festival 2025"
@@ -5942,7 +5942,7 @@ msgstr "Nivåindelade produkter låter dig erbjuda flera prisalternativ för sam
 
 #: src/components/routes/organizer/Settings/Sections/SocialLinks/index.tsx:70
 msgid "TikTok"
-msgstr ""
+msgstr "TikTok"
 
 #: src/components/layouts/Checkout/index.tsx:88
 msgid "Time left:"
@@ -6238,7 +6238,7 @@ msgstr "Platsnamn"
 
 #: src/components/routes/welcome/index.tsx:157
 msgid "Verification code"
-msgstr ""
+msgstr "Verifieringskod"
 
 #: src/components/routes/welcome/index.tsx:185
 msgid "Verify Email"
@@ -6474,7 +6474,7 @@ msgstr "Vilken typ av fråga är detta?"
 
 #: src/components/routes/organizer/Settings/Sections/SocialLinks/index.tsx:89
 msgid "WhatsApp"
-msgstr ""
+msgstr "WhatsApp"
 
 #: src/components/forms/WebhookForm/index.tsx:108
 msgid "When a check-in is deleted"
@@ -6881,7 +6881,7 @@ msgstr "Din biljett för"
 
 #: src/components/routes/organizer/Settings/Sections/SocialLinks/index.tsx:67
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #: src/components/routes/product-widget/CollectInformation/index.tsx:348
 msgid "ZIP / Postal Code"
