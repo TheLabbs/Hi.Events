@@ -3126,7 +3126,7 @@ msgstr "Mat och dryck"
 
 #: src/components/routes/auth/Login/index.tsx:80
 msgid "Forgot password?"
-msgstr "Har du glömt lösenordet?"
+msgstr "Glömt lösenordet?"
 
 #: src/components/common/AttendeeTicket/index.tsx:40
 #: src/components/common/Currency/index.tsx:90
@@ -3137,15 +3137,15 @@ msgstr "Har du glömt lösenordet?"
 #: src/components/layouts/OrganizerHomepage/EventCard/index.tsx:179
 #: src/components/routes/product-widget/SelectProducts/Prices/Tiered/index.tsx:53
 msgid "Free"
-msgstr "Gratis"
+msgstr "Kostnadsfritt"
 
 #: src/components/forms/ProductForm/index.tsx:151
 msgid "Free Product"
-msgstr "Gratisprodukt"
+msgstr "Kostnadsfri produkt"
 
 #: src/components/forms/ProductForm/index.tsx:153
 msgid "Free product, no payment information required"
-msgstr "Gratis produkt, ingen betalningsinformation krävs"
+msgstr "Kostnadsfri produkt, ingen betalningsinformation krävs"
 
 #: src/components/forms/TicketForm/index.tsx:133
 #~ msgid "Free Ticket"
@@ -4816,15 +4816,15 @@ msgstr "Lösenord återställs framgångsrikt. Logga in med ditt nya lösenord."
 #: src/components/routes/auth/AcceptInvitation/index.tsx:32
 #: src/components/routes/auth/Register/index.tsx:38
 msgid "Passwords are not the same"
-msgstr "Lösenord är inte desamma"
+msgstr "Lösenorden matchar inte varandra"
 
 #: src/components/layouts/OrganizerHomepage/index.tsx:267
 msgid "Past"
-msgstr "Förbi"
+msgstr "Tidigare"
 
 #: src/components/layouts/OrganizerHomepage/index.tsx:238
 msgid "Past Events"
-msgstr "Tidigare händelser"
+msgstr "Tidigare evenemang"
 
 #: src/components/common/WidgetEditor/index.tsx:269
 msgid "Paste this where you want the widget to appear."
